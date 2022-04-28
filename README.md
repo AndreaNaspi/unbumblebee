@@ -28,7 +28,7 @@ C:\unbumblebee> python3 unbumblebee.py --pid 3628
 45.147.229.177
 ```
 
-For further script arguments executes the script with the --help flag:
+For further script arguments execute the script with the --help flag:
 ```
 C:\unbumblebee> python3 unbumblebee.py --help
 
