@@ -6,7 +6,7 @@ Based on [PE-Sieve](https://github.com/hasherezade/pe-sieve) work made by [@hash
 # Configuration
 To extract the Bumblebee configuration you need a safe environment (such as a virtualized system) with an installed Python 3.7 or higher.  
 
-:warning: Be sure to make a snapshot of the environment before proceeding with the execution of the Bumblebee payload!:warning:
+:warning: Be sure to make a snapshot of the environment before proceeding with the execution of the Bumblebee DLL!:warning:
 
 Once cloned the repository, trigger the execution of the Bumblebee Loader DLL (for example through the Windows utility rundll32.exe) specifying the export which leads to the execution of the malware (such as 'IternalJob'):  
 ```
